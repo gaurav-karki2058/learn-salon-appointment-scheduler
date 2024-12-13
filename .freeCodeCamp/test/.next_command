@@ -133,3 +133,5 @@ pg_dump -cC --inserts -U freecodecamp salon > salon.sql
 ./salon.sh
 ./salon.sh
 pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+git remote remove upstream
