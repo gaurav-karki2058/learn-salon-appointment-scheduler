@@ -132,3 +132,4 @@ pg_dump -cC --inserts -U freecodecamp salon > salon.sql
 ./salon.sh
 ./salon.sh
 ./salon.sh
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql

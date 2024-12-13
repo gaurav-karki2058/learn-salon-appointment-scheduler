@@ -196,14 +196,14 @@ INSERT INTO public.services VALUES (5, 'perm');
 -- Name: appointments_appointment_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.appointments_appointment_id_seq', 6, true);
+SELECT pg_catalog.setval('public.appointments_appointment_id_seq', 24, true);
 
 
 --
 -- Name: customers_customer_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.customers_customer_id_seq', 5, true);
+SELECT pg_catalog.setval('public.customers_customer_id_seq', 20, true);
 
 
 --
